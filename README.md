@@ -5,7 +5,7 @@ This repository is my personal playground for learning and mastering **Go (Golan
 
 ## 📌 Progress  
 
-### ✅ Learning Goals  
+### Learning Goals  
 - [ ] Go Syntax & Basics  
 - [ ] Variables, Data Types, and Control Flow  
 - [ ] Functions & Error Handling  
@@ -13,7 +13,13 @@ This repository is my personal playground for learning and mastering **Go (Golan
 - [ ] Goroutines & Channels (Concurrency)  
 - [ ] Working with Files & Networking  
 - [ ] Building CLI Tools & APIs  
-- [ ] Advanced Concurrency Patterns  
+- [ ] Advanced Concurrency Patterns
+
+## Upcoming Projects  
+- [ ] URL Shortener  
+- [ ] CRUD To-Do App with jwt
+- [ ] Email Newsletter service
+- [ ] Real-time Chat app like WhatsApp/Discord  
 
 ## 🔧 Setup  
 1. Install Go: [Download](https://go.dev/dl/)  

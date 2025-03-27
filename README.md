@@ -1,4 +1,5 @@
-# 🏗️ practice-go 🚀  
+# practice-go 
+![Go Logo](https://shorturl.at/bU9Fb)
 
 This repository is my personal playground for learning and mastering **Go (Golang)** from the basics to advanced concepts.  
 

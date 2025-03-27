@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"projects/datatypes"
 	"projects/math"
 )
 
@@ -11,4 +12,6 @@ func main() {
 	math.CallMe()
 	math.Add(2, 3)
 	math.Multiply(3, 2)
+
+	datatypes.DataTypes()
 }
